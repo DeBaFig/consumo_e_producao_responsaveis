@@ -161,4 +161,4 @@ function addPhotos(numberPhotos){
 				"</div>";
 	}
 }
-addPhotos(0);
+addPhotos(8);
